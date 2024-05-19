@@ -1,5 +1,3 @@
-## This is my pet project for Next.js practice.
-
 ### Project Overview
 
 | Problem                                        | Solution                                                         |
